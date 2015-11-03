@@ -1,0 +1,10 @@
+C:\Projects\__Git\Labs\LuceneNetDemo01\LuceneNetDemo01\bin\Debug\LuceneNetDemo01.exe.config
+C:\Projects\__Git\Labs\LuceneNetDemo01\LuceneNetDemo01\bin\Debug\LuceneNetDemo01.exe
+C:\Projects\__Git\Labs\LuceneNetDemo01\LuceneNetDemo01\bin\Debug\LuceneNetDemo01.pdb
+C:\Projects\__Git\Labs\LuceneNetDemo01\LuceneNetDemo01\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Projects\__Git\Labs\LuceneNetDemo01\LuceneNetDemo01\bin\Debug\Lucene.Net.dll
+C:\Projects\__Git\Labs\LuceneNetDemo01\LuceneNetDemo01\bin\Debug\Lucene.Net.pdb
+C:\Projects\__Git\Labs\LuceneNetDemo01\LuceneNetDemo01\bin\Debug\Lucene.Net.xml
+C:\Projects\__Git\Labs\LuceneNetDemo01\LuceneNetDemo01\obj\Debug\LuceneNetDemo01.csprojResolveAssemblyReference.cache
+C:\Projects\__Git\Labs\LuceneNetDemo01\LuceneNetDemo01\obj\Debug\LuceneNetDemo01.exe
+C:\Projects\__Git\Labs\LuceneNetDemo01\LuceneNetDemo01\obj\Debug\LuceneNetDemo01.pdb
